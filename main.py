@@ -6,11 +6,8 @@ import sys
 
 
 def main():
-    # Create an instance of the Kenken class
+    
     kenken_solver = Kenken()
-
-    # Solve the Kenken puzzle
     kenken_solver.solve()
-
-
+    
 main()
